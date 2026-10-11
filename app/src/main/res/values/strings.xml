@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slopbreak</string>
+    <string name="service_description">Times Instagram Reels and YouTube Shorts against your limit and takes you back out when it\'s up. Can lock itself against being switched off or uninstalled. Screens are read on the phone; nothing leaves it.</string>
+</resources>
